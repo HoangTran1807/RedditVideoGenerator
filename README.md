@@ -1,6 +1,6 @@
 # Reddit Video Generator
 
-*This project is further explained in [this video](https://youtu.be/ZmSb3LZDdf0)*
+*This project is my modify for https://github.com/TraySimpson/RedditVideoGenerator
 
 *This code is meant only for educational reference and will not be maintained. Because of this, the repo is archived and is in a read-only state*
 
